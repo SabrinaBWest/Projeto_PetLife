@@ -1,0 +1,10 @@
+Clínica Veterinária e Petshop
+Descrição
+Este repositório contém o código-fonte de um site para uma clínica veterinária e petshop. O objetivo deste projeto é oferecer uma plataforma online onde os usuários possam obter informações sobre os serviços da clínica, agendar consultas, e comprar produtos para seus pets.
+
+Tecnologias Utilizadas
+HTML
+CSS
+JavaScript
+Visual Studeo Code
+Json
